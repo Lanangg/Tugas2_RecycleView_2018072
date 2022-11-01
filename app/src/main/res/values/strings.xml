@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Budi Electronic Shop</string>
+    <string-array name="makanan">
+        <item>Fitting Lampu</item>
+        <item>Led Strip</item>
+        <item>Neon</item>
+        <item>Stop Kontak</item>
+        <item>Kipas Angin</item>
+        <item>Mesin Cuci</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+        <item>4.3</item>
+        <item>4.1</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5000</item>
+        <item>Rp. 7000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 200.000</item>
+        <item>Rp. 750.000</item>
+    </string-array>
+</resources>
